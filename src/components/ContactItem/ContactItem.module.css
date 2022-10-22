@@ -1,7 +1,7 @@
 .item {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    /* align-items: baseline; */
 }
 
 .item:not(:last-child) {
